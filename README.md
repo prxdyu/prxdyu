@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤓 Geek
-- 📈 Aspriring Data Science
+- 📈 Aspriring Data Scientist
 - 🎓 Currently pursuing my bachelors degree in Computer Science Engineering
 - 🤖 Exploring and learning ML
 - 🧠 Artificial Intelligence Enthusiast
