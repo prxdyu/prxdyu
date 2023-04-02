@@ -7,6 +7,6 @@
 
 - 🎓 Pursuing Bachelors degree in Computer Science Engineering
 
-- 📈 Exploring and upskilling in  ML
+- 📈 Exploring and upskilling myself in the field of Data Science
 
 - 📫 Reach me through Linkedin https://www.linkedin.com/in/prxdyu
