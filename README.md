@@ -1,6 +1,6 @@
 ![](https://github.com/prxdyu/prxdyu/blob/main/apex_pradyu.gif)
  <h2 align="center">Hi there 👋 I'm Pradyumna</h1>
- <i align="center">I am an Engineering student from India with a profound interest in AI and ML.</i>
+ <h6 align="center">I am an Engineering student from India with a profound interest in AI and ML. </h6>
 
 
 - 🤓 Geek
