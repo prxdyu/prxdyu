@@ -5,5 +5,5 @@
 
 - 🤓 Aspriring Data Scientist 
 - 🎓 Pursuing Bachelors degree in Computer Science Engineering
-- 🤖 Exploring and upskilling in  ML
+- 📈 Exploring and upskilling in  ML
 - 📫 Reach me through Linkedin https://www.linkedin.com/in/prxdyu
