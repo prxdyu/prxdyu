@@ -1,4 +1,4 @@
-![](https://github.com/prxdyu/prxdyu/blob/main/github_live.gif)
+![](https://github.com/prxdyu/prxdyu/blob/main/apex_pradyu.gif)
 ### Hi there 👋
 
 - 🤓 Geek
