@@ -3,9 +3,7 @@
  <h5 align="center">I am an Engineering student from India with a profound interest in AI and ML. </h6>
 
 
-- 🤓 Geek
-- 📈 Aspriring Data Scientist
-- 🎓 Currently pursuing my bachelors degree in Computer Science Engineering
-- 🤖 Exploring and learning ML
-- 🧠 Artificial Intelligence Enthusiast
+- 🤓 Aspriring Data Scientist 
+- 🎓 Pursuing Bachelors degree in Computer Science Engineering
+- 🤖 Exploring and upskilling in  ML
 - 📫 Reach me through Linkedin https://www.linkedin.com/in/prxdyu
