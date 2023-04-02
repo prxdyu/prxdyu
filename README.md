@@ -1,5 +1,5 @@
 ![](https://github.com/prxdyu/prxdyu/blob/main/apex_pradyu.gif)
-######## Hi there 👋 I'm Pradyumna 
+            Hi there 👋 I'm Pradyumna 
 
 - 🤓 Geek
 - 📈 Aspriring Data Scientist
