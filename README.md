@@ -9,4 +9,4 @@
 
 - 📈 Exploring and upskilling myself in the field of Data Science
 
-- 📫 Reach me through Linkedin https://www.linkedin.com/in/prxdyu
+- 📫 Reach me through **pradyu1742@gmail.com**
