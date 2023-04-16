@@ -7,7 +7,7 @@
 
 - 🎓 Pursuing Bachelors degree in Computer Science Engineering
 
-- 📈 Exploring and upskilling myself in the field of Data Science
+- 📈 Exploring and upskilling myself in the field of Artificial Intelligence
 
 - 📫 Reach me through **pradyu1742@gmail.com**
 
