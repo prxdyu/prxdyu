@@ -3,7 +3,9 @@
  <h5 align="center">I'm an Engineering student from India with a profound interest in AI and ML. </h6>
 
 
-- 🤓 Aspriring Data Scientist 
+- 🤓 Aspriring Data Scientist
+
+-  Teaching Machines how to learn using data
 
 - 🎓 Pursuing Bachelors degree in Computer Science Engineering
 
