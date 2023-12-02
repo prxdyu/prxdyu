@@ -3,15 +3,42 @@
  <h5 align="center">I'm an Engineering student from JEC with a profound interest in AI and ML. </h6>
 
 
-- 🤓 Aspriring Data Scientist
+👋 Hi there! I'm Pradumna, a Data enthusiast passionate about crunching numbers and turning them into insights. 📊
 
--  Teaching Machines how to learn using data
+🚀 About Me:
 
-- 🎓 Pursuing Bachelors degree in Computer Science Engineering
+🎓 Engineering graduate, currently doing it internship as a Jr.Data Scientist at Coapps.ai
+<br>
+<br>
+💻 Love using Python for all things data-related.
+<br>
+<br>
+📊 Data Analysis: Python, Pandas, SQL
+<br>
+<br>
+🤖 Machine Learning: Scikit-learn
+<br>
+<br>
+📈 Visualization: Matplotlib, Seaborn
+<br>
+<br>
+🚀 Projects: Blog Web-app
+<br>
+<br>
+🚀 Check out my [[GitHub link]](https://github.com/prxdyu) for cool data projects!
+<br>
+<br>
+🌱 Interests: NLP, Computer vision
+<br>
+<br>
+🌐 Always curious about new data science trends.
+<br>
+<br>
+📚 Learning about the latest tech in data.
+<br>
+<br>
+👀 Open to collaboration and new data adventures. Let's chat! 🚀
 
-- 📈 Exploring and upskilling myself in the field of Artificial Intelligence
-
-- 📫 Reach me through **pradyu1742@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
