@@ -1,6 +1,23 @@
 ![](https://github.com/prxdyu/prxdyu/blob/main/coding.gif)
- <h2>Hi there 👋 I'm Pradyu </h1>
+ ## Hello World, I'm [Pradyu!](https://www.linkedin.com/in/prxdyu/) 
+
+ <a href="https://www.linkedin.com/in/prxdyu/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<a href="mailto:mailtomepradyu1742@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+<a href="https://www.instagram.com/_prxdyu_/?igsh=YzNyNDg1cWZlM2ty">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/instagram" />
+</a>
+<a href="https://medium.com/@prxdyu">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
+</a>
+
+<br />
  <h5> Data enthusiast passionate about crunching numbers and turning them into insights 📊</h5>
+
+
 
 🎓 Engineering Student at JEC
 <br>
