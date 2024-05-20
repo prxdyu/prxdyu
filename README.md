@@ -27,15 +27,15 @@
 
  
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prxdyu&theme=merko" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prxdyu&theme=omni" width=750  alt="stats graph"/>
 
 </div>
 
 
-[![Pradyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prxdyu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Pradyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prxdyu&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------------------------------
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxdyu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxdyu&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
