@@ -13,15 +13,27 @@
 <a href="https://medium.com/@prxdyu">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
+<br>
+</br>
 
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prxdyu&theme=merko" width=750  alt="stats graph"/>
+
+</div>
+--------------------------------------------------------------------------
+
+[![Pradyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prxdyu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------------------------------------------------
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxdyu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<br>
+<br>
 <br />
- <h5> Data enthusiast passionate about crunching numbers and turning them into insights 📊</h5>
 
-
-
-🎓 Engineering Student at JEC
-<br>
-<br>
+🎓 Engineering Student pursuing Bachelors in Computer Science Engineering @ JEC
 💻 Love using Python for all things data-related.
 <br>
 <br>
