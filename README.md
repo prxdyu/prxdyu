@@ -1,5 +1,5 @@
 ![](https://github.com/prxdyu/prxdyu/blob/main/coding.gif)
- ## Hello World, I'm [Pradyu!](https://www.linkedin.com/in/prxdyu/) 👨‍💻
+ ## Hello World, I'm [Pradyu !](https://www.linkedin.com/in/prxdyu/) 👨‍💻
  <a href="https://www.linkedin.com/in/prxdyu/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
