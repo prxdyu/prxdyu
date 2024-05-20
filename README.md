@@ -1,8 +1,8 @@
 ![](https://github.com/prxdyu/prxdyu/blob/main/coding.gif)
- <h2 align="center">Hi there 👋 I'm Pradyu </h1>
- <h5 align="center"> Data enthusiast passionate about crunching numbers and turning them into insights 📊</h6>
+ <h2>Hi there 👋 I'm Pradyu </h1>
+ <h5> Data enthusiast passionate about crunching numbers and turning them into insights 📊</h5>
 
-🎓 Engineering graduate, currently doing it internship at Coapps.ai
+🎓 Engineering Student at JEC
 <br>
 <br>
 💻 Love using Python for all things data-related.
