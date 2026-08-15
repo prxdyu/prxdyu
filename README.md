@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Coding GIF](https://github.com/prxdyu/prxdyu/blob/main/coding.gif?raw=true)
+
 **Building data solutions, deploying ML systems, solving real-world problems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prxdyu/)
